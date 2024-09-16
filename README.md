@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm 박태수</h1>
-<h3 align="center">저는 백엔드 개발자를 희망하는 박태수입니다. 시간을 소중히 여기고 하루하루 나날이 성장하는 개발자가 되고 싶습니다.</h3>
+<h3 align="center">저는 백엔드 개발자를 희망하는 박태수입니다.</h3> 
+<h3 align="center">시간을 소중히 여기고 하루하루 나날이 성장하는 개발자가 되고 싶습니다.</h3>
 
 - 🔭 I’m currently working on **Daedong-yeojido**
 
