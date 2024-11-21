@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Daedong-yeojido**
 
-- 🌱 I’m currently learning **Spring Boot, Jpa, Kotlin**
+- 🌱 I’m currently learning **Spring Boot, Jpa, Kotlin, Network**
 
 - 📝 I regularly write articles on [https://velog.io/@troy96475/posts](https://velog.io/@troy96475/posts)
 
