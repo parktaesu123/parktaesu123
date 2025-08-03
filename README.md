@@ -1,1 +1,9 @@
-<h3>👋 서버 개발하고 있는 박태수입니다 </h3>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=parktaesu123&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/parktaesu123"
+    width="600"
+    height="120"
+  />
+</a>
+  
